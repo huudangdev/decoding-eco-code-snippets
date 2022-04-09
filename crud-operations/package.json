@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "faker": "^4.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongoose-aggregate-paginate-v2": "^1.0.3"
   }
 }
